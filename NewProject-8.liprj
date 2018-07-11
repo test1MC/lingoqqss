@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlBound="false">
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlDatabase="C:\Users\randonie\Desktop\BugBase Downloads\130955\Lingo\.git" SourceControlProviderType="Git" ProjectGuid="7bd77b73-05fb-4e6c-ad34-e5c6d91a7970" SourceControlDatabaseRoot="C:\Users\randonie\Desktop\BugBase Downloads\130955\Lingo">
     <ProjectFile Source="Target/ConditionsTest.flprj" Target="Target/ConditionsTest.flprj" />
 </LingoProject>

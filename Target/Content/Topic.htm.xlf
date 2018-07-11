@@ -37,30 +37,31 @@
           unit="trans-unit">0</count>
       </count-group>
       <tool
-        tool-id="MadCap Lingo 10"
+        tool-id="MadCap Lingo 10.2 (Lingo release)"
         tool-name="Lingo"
-        tool-version="10.1.6367.6648"
+        tool-version="10.2.6761.32602"
         tool-company="MadCap Software" />
     </header>
     <body><trans-unit
         id="1"
         restype="x-xml-h1"
-        phase-name="pretrans"><source>Topic Title1 UPDATED</source><seg-source><mrk
+        phase-name="pretrans"><source>Topic Title1 =====</source><seg-source><mrk
             mtype="seg"
             mid="1"
-            MadCap:parentConditions="Default.ScreenOnly;">Topic Title1 UPDATED</mrk></seg-source><target
+            MadCap:parentConditions="|Default.ScreenOnly">Topic Title1 =====</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>This should be excluded.</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:conditions="Default.PrintOnly"
-            MadCap:parentConditions="Default.ScreenOnly;">This should be excluded.</mrk></seg-source><target
+            MadCap:parentConditions="|Default.ScreenOnly">This should be excluded.</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
